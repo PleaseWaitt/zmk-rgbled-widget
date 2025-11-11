@@ -62,7 +62,7 @@
         compatible = "zmk,combos";
         combo_off {
             timeout-ms = <50>;
-            key-positions = <0 15>;
+            key-positions = <0 20>;
             bindings = <&lights_out>;
         };
     };
