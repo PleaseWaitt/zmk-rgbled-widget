@@ -38,7 +38,6 @@
 
 &soft_off {
     hold-time-ms = <1200>;
-    /delete-property/ split-peripheral-off-on-press;
 };
 
 / {
